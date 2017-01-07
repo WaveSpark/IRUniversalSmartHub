@@ -18,7 +18,7 @@ Steps:
     
     You can use irSmartHub.getIpList(); to get get list of hubs connected to the network. (You will need to update the AsyncTask onPostExecute method to do something with the list of IP Addresses.)
    
-    Example code string: (Frequency is first value before comma)   code="38000,15,8,8,8,8,19,8,8,7,27,7,14,8,9,6,9,6,9,6,19,8,19,8,14,7,20,7,14,7,14,8,19,8,26,7,3227,15,8,8,8,8,19,8,8,7,27,7,14,8,9,6,9,6,9,6,19,8,19,8,14,7,20,7,14,7,14,8,19,8,26,7,3227,15,8,8,8,8,19,8,8,7,27,7,14,8,9,6,9,6,9,6,19,8,19,8,14,7,20,7,14,7,14,8,19,8,26,7,3227,"
+    Example code string (Samsung, TV, Power On): (Frequency is first value before comma)   code="38000,1,1,343,172,21,22,21,22,21,65,21,22,21,22,21,22,21,22,21,22,21,65,21,65,21,22,21,65,21,65,21,65,21,65,21,65,21,22,21,22,21,22,21,65,21,22,21,22,21,22,21,22,21,65,21,65,21,65,21,22,21,65,21,65,21,65,21,65,21,4923"
      
 
     Receive Example:
